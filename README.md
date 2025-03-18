@@ -1,5 +1,3 @@
 # exemple
 
-#bloop
-#coulicou
 
