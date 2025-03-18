@@ -1,3 +1,9 @@
 # exemple
 
-#Shadow and Sonic for ever 
+<<<<<<< HEAD
+#Hello world
+=======
+#bloop
+
+#My name is what 
+#Sonic and Shadow 4 ever
